@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MinasKatsiokalis
+- 👋 Hi, I’m Minas
 - 👀 I’m interested in eXtended Reality (XR) Development
 - 📫 You can reach me through my contact info @ my website: https://minaskatsiokalis.com
 
